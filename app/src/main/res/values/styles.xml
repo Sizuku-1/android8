@@ -1,0 +1,15 @@
+<resources>
+    <color name="paper">#F7F8F4</color>
+    <color name="ink">#172E31</color>
+    <color name="muted">#4C6567</color>
+    <color name="line">#D9E3DE</color>
+    <color name="teal">#185356</color>
+    <style name="WeatherTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:colorAccent">@color/teal</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@color/paper</item>
+        <item name="android:navigationBarColor">@color/paper</item>
+        <item name="android:windowBackground">@color/paper</item>
+    </style>
+</resources>

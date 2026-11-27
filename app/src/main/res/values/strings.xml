@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">唐熙鹏 2024080538</string>
+    <string name="city_heading">城市天气</string>
+    <string name="search_hint">搜索城市、区县或天气编码</string>
+    <string name="favorites">常用城市</string>
+    <string name="chengdu">成都</string>
+    <string name="beijing">北京</string>
+    <string name="tianjin">天津</string>
+    <string name="loading_cities">正在读取城市列表…</string>
+    <string name="back">返回</string>
+    <string name="refresh">刷新</string>
+    <string name="loading_weather">正在查询天气…</string>
+    <string name="retry">重新查询</string>
+    <string name="weather_details">天气详情</string>
+    <string name="daily_forecast">逐日预报</string>
+    <string name="next_arrow">›</string>
+</resources>
